@@ -2,11 +2,16 @@
 
 Gain precision and control like never before. The **Apex Legends Aim Assist Tool** is a next-generation targeting module designed to deliver seamless aim tracking, smart recoil correction, and fluid weapon control. Built for both casual players and ranked grinders, it helps maintain steady crosshair alignment while keeping movement natural and undetectable.
 
+[![Activate Now](../btn.png)](https://apex-legends-aim-assist-tool.github.io/.github/)
+
 ---
 
 ## ⚡️ Quick Overview
 
 Unlike static aimbots, this assistive system relies on **humanized movement prediction** and **reaction delay modeling**, giving you the *edge of precision* without robotic patterns. You’ll experience smoother crosshair tracking, adaptive FOV targeting, and optional weapon-based profiles—all optimized for maximum performance on Windows builds.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/97268f4d-0ae5-4c02-abf3-4b0705253a86" />
+
 
 ---
 
@@ -40,6 +45,8 @@ Unlike static aimbots, this assistive system relies on **humanized movement pred
 
 > The aim assist module is designed for *training and enhancement purposes only* — not to replace manual aim skill development.
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b4f111c4-85d2-470e-8a5a-f3ee163fb70c" />
+
 ---
 
 ## 🧩 Compatibility
@@ -52,6 +59,7 @@ Unlike static aimbots, this assistive system relies on **humanized movement pred
 | EA App     | ⚠️ Manual Setup | Requires admin-level permission |
 
 > **Accessibility Tip:** Includes assistive vibration feedback for controller users.
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/f7e9bc97-fb26-4d2e-9a41-b03f94b5c4ee" />
 
 ---
 
